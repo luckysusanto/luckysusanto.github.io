@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Indonesia, 2024 (expected)
 
 Work experience
 ======
@@ -29,23 +27,23 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Java
+  * Shell
+  * PostgreSQL
+* AI Toolkit
+  * PyTorch
+  * HuggingFace
+  * WandB
+* Cloud Computing
+  * Amazon Web Services
+  * Google Cloud
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +52,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* November 2023: Student Volunteer at IJCNLP-AACL 2023
+  * Moderated on the SEALP 2023 Workshop
+  * Moderated on the Student Workshop 2023
+  * General Staff Duties
