@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, my name is Lucky Susanto. I am an undergraduate student at Univeristy of Indonesia, expected to graduate around January 2024. I am passionate about AI, especially on how to democratize their usage. I am currently working as an NLP researcher at the GIK community. Currently, my research focus is on understanding and enabling AI for low-resource contexts.
+Welcome, my name is Lucky Susanto. I am an undergraduate student at Univeristy of Indonesia, expected to graduate around January 2024. I am passionate about AI, especially on how to democratize their usage. I am currently an NLP researcher at the GIK community. Currently, my research focus is on understanding and enabling AI for low-resource contexts.
 
 <!-- A data-driven personal website
 ======
