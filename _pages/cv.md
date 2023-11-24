@@ -15,15 +15,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2022 - Jul 2022: AI Research Intern at Kata.ai
+  * Investigated the impact of curriculum learning on the pre-training of BERT.
+  * Investigated how progresive stacking can be used to reduce pre-training cost.
+  * Duties included: Experiment planning, coding, weekly reports, and end result documentation 
+  * Supervisor: Radityo Eko Prasojo
   
 Skills
 ======
