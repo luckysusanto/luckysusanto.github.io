@@ -1,6 +1,6 @@
 ---
 title: 'Linear Algebra for Machine Learning (Part 1 of 4)'
-date: 2199-01-01
+date: 2024-01-01
 permalink: /posts/2024/01/basics-linalg-1
 tags:
   - basics
