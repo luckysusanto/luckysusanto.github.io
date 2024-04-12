@@ -12,4 +12,4 @@ Asian Language Processing (SEALP), 2023.'
 ---
 Benchmarking potential breakthroughs became a challenge due to the high-resource settings many models utilize. However, using weak baselines are not a convincing way in showing the impact of a breakthrough. So, we created a replicable benchmarking of NMT for low-resource local languages in Indonesia made using only one GPU and utilizing only 96 hours per model.
 
-[Download paper here](https://arxiv.org/abs/2311.00998)
+[Download paper here](ttps://arxiv.org/abs/2311.00998)
