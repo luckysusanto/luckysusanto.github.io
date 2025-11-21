@@ -1,8 +1,5 @@
 ---
 layout: default
-
-<a href="./CV.pdf" class="btn">Download CV</a>
-<a href="https://scholar.google.com/citations?user=PXFKZWgAAAAJ" class="btn">Google Scholar</a>
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
