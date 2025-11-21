@@ -24,5 +24,5 @@ Hello! I'm **Lucky Susanto**, a research assistant at **Monash University Indone
 ## Find Me Online
 
 *   **Email:** `lucky[dot]susanto[at]monash[dot]edu`
-*   **LinkedIn:** `https://www.linkedin.com/in/lucky-susanto/`
-*   **Google Scholar:** `https://scholar.google.com/citations?user=PXFKZWgAAAAJ`
+*   **LinkedIn:** [Here](https://www.linkedin.com/in/lucky-susanto/)
+*   **Google Scholar:** [Here](https://scholar.google.com/citations?user=PXFKZWgAAAAJ)
