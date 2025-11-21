@@ -4,12 +4,3 @@ plugins:
 title: Lucky Susanto
 description: Experienced in AI for Society, dataset creation, multi-linguality, multi-modality. Now interested in AI Safety and Mechanistic Interpretability.
 logo: ./TempSelf.jpeg
-# Tells the theme to show the download buttons
-show_downloads: true
-
-# Your custom buttons
-header_links:
-  - title: My CV
-    url: ./CV.pdf
-  - title: Google Scholar
-    url: https://scholar.google.com/citations?user=YOUR_USER_ID # Replace with your URL
